@@ -1,7 +1,7 @@
 # Takumi Katayama
 
 
-[![](https://img.shields.io/badge/Portfolio-%E3%81%9F%E3%81%8F%E3%82%8A%E3%82%93%E3%81%A8%E3%82%93-green)](https://www.takurinton.com)
+[![](https://img.shields.io/badge/Portfolio-takurinton.com-green)](https://www.takurinton.com)
 [![](https://img.shields.io/badge/Twitter-takurinton-blue)](https://twitter.com/takurinton)
 [![](https://img.shields.io/badge/Qiita-takurinton-green)](https://qiita.com/takurinton) 
 [![](https://img.shields.io/badge/Facebook-takurinton-blue)](https://facebook.com/takurinton)
