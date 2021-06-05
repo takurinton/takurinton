@@ -9,7 +9,8 @@
 [![](https://img.shields.io/badge/Wantedly-takurinton-blue)](https://www.wantedly.com/id/takurinton)
 [![](https://img.shields.io/badge/Instagram-takurinton-red)](https://www.instagram.com/takurinton)
 
-### Hi!!! I am takurinton!!!✌️✌️✌️
+## Hi!!! I am takurinton!!!✌️✌️✌️
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=takurinton&count_private=true&show_icons=true" />
 </a>
@@ -17,3 +18,60 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurinton" />
 </a>
 
+  
+
+### About
+
+- I like frontend technology
+- I will start job at VOYAGE GROUP from 2022
+- Software developer in VOYAGE GROUP as student part time job
+- Member of Vuejs-jp
+- Student at Kanazawa Institute of Technology
+  
+  
+
+### Career / Internships
+
+- Sysnect Inc. / internship student(2020/02)
+- D2C Inc. / hackathon(2020/02)
+- VOYAGE GROUP Inc. / internship student(2020/08)
+- CyberAgent Inc. / internship student(2020/09)
+- Rakuten Inc. / internship student(2020/09)
+- VOYAGE GROUP Inc. / Server side developer(2021/02~2021/06)
+- PLAID Inc. / Frontend developer(2021/07~)
+  
+
+### Skills
+
+- Business experience
+  - language
+    - PHP
+    - Go
+    - JavaScript
+  - library
+    - jQuery
+  - bandler
+    - webpack
+  - framework
+    - gin 
+    - Django
+- Hobby development
+  - language
+    - JavaScript/TypeScript
+    - Go
+    - Python
+  - vdom libraly
+    - React 
+    - preact
+  - not vdom libraly
+    - svelte 
+    - jQuery
+  - bandler
+    - vite 
+    - webpack
+    - esbuild
+  - framework
+    - Django
+    - gin 
+    - Next.js
+  
