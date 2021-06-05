@@ -32,46 +32,35 @@
 
 ### Career / Internships
 
-- Sysnect Inc. / internship student(2020/02)
+- Sysnect Inc. / System development internship (2020/02)
 - D2C Inc. / hackathon(2020/02)
-- VOYAGE GROUP Inc. / internship student(2020/08)
-- CyberAgent Inc. / internship student(2020/09)
-- Rakuten Inc. / internship student(2020/09)
-- VOYAGE GROUP Inc. / Server side developer(2021/02~2021/06)
-- PLAID Inc. / Frontend developer(2021/07~)
+- VOYAGE GROUP Inc. / team development internship(2020/08)
+- CyberAgent Inc. / internship at Ameba, development Ameba DSP(2020/09)
+- Rakuten Inc. / team development internship(2020/09)
+- VOYAGE GROUP Inc. / server side developer at VOYAGE MARKETING(2021/02~2021/06)
+- PLAID Inc. / frontend developer(2021/07~)
   
 
 ### Skills
 
 - Business experience
-  - language
-    - PHP
-    - Go
-    - JavaScript
-  - library
-    - jQuery
-  - bandler
-    - webpack
-  - framework
-    - gin 
-    - Django
+  - PHP
+  - Go
+  - Python
+  - JavaScript
+  - jQuery
+  - Django
+  - gin
 - Hobby development
-  - language
-    - JavaScript/TypeScript
-    - Go
-    - Python
-  - vdom libraly
-    - React 
-    - preact
-  - not vdom libraly
-    - svelte 
-    - jQuery
-  - bandler
-    - vite 
-    - webpack
-    - esbuild
-  - framework
-    - Django
-    - gin 
-    - Next.js
-  
+  - JavaScript/TypeScript
+  - Go
+  - Python
+  - React 
+  - preact
+  - svelte 
+  - vite 
+  - webpack
+  - esbuild
+  - Django
+  - gin 
+  - Next.js
