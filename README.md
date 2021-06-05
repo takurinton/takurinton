@@ -11,18 +11,19 @@
 
 ## Hi!!! I am takurinton!!!✌️✌️✌️
 
+副業や業務委託の案件募集しておりまする( ^ω^ )
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=takurinton&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurinton" />
 </a>
-
   
-
 ### About
 
 - I like frontend technology
+- I like to draw pictures using CSS
 - I will start job at VOYAGE GROUP from 2022
 - Software developer in VOYAGE GROUP as student part time job
 - Member of Vuejs-jp
@@ -61,6 +62,8 @@
   - vite 
   - webpack
   - esbuild
+  - express
+  - fastify
+  - Next.js
   - Django
   - gin 
-  - Next.js
