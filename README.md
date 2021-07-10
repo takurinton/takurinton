@@ -37,6 +37,6 @@
 - VOYAGE GROUP Inc. / team development internship(2020/08)
 - CyberAgent Inc. / internship at Ameba, development Ameba DSP(2020/09)
 - Rakuten Inc. / team development internship(2020/09)
-- VOYAGE GROUP Inc. / server side developer at VOYAGE MARKETING(2021/02~)
-- PLAID Inc. / frontend developer(2021/07~)
+- VOYAGE GROUP Inc. / server side developer at VOYAGE MARKETING(2021/02~06)
+- PLAID Inc. / frontend developer of KARTE(2021/07~)
   
