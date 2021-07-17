@@ -24,7 +24,7 @@
 - I like frontend technology
 - I like to draw pictures using CSS
 - I will start job at VOYAGE GROUP from 2022
-- Software developer in VOYAGE GROUP as student part time job
+- Frontend developer at PLAID
 - Member of Vuejs-jp
 - Student at Kanazawa Institute of Technology
 - Anyone welcome [discord server](https://discord.gg/Q5REq8BR)
